@@ -76,7 +76,7 @@ body {
 }
 ''' 
 js = '''
-<script src="/prompts.js"></script>
+<script src="https://raw.githubusercontent.com/insanensfwdev/hf-gradio-text2img-card/main/prompt.js"></script>
 <script>
 window.g=function(){ 
   const conditions = {
